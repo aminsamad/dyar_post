@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157023286872",
+    "firebase_url": "https://dyar-post-default-rtdb.firebaseio.com",
+    "project_id": "dyar-post",
+    "storage_bucket": "dyar-post.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157023286872:android:c9c68ea1c9db455b477c2d",
+        "android_client_info": {
+          "package_name": "com.dyarpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157023286872-8fiha6g51u4tu2bhdkjtuplqqt6cuvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWB59SqKKrymDb5lqiCgiP5XCNgIh1G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157023286872-8fiha6g51u4tu2bhdkjtuplqqt6cuvru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
